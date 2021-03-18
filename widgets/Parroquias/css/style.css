@@ -1,0 +1,11 @@
+.parroquias h3 {
+  font-size: 1.2em;
+}
+.parroquias h3, p {
+  margin-top: 0;
+}
+#dijit__WidgetBase_7.jimu-widget-frame.jimu-container{
+  background-image: url("../images/bandera_galicia.png");
+  background-size: cover;
+  width: auto;
+}
